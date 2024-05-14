@@ -17,7 +17,7 @@ Cache treats main memory as a set of blocks.As the cache size is much smaller th
 
 Any main memory block can mapped into any cache line. main memory address is divided into two groups which are tags and word bits. Words are low-order bits and identifies the location of a word within a block and tags are high-order bits which identifies the block.
 
-<img src= "./simulation/images/image_1.png">
+<img src="./simulation/images/imgae_1.png">
 
 Block diagram of a associated cache :
 
