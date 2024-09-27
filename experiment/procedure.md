@@ -10,11 +10,6 @@ To build a associative Cache with 4 bit memory address and 2 bit data address wi
 6. Display units to check the outputs.
 7. Wires to connect.
 
-# Circuit of 4:1 Multiplexer:
-<center>
-<img src="./simulation/images/4-1MUX.png">
-</center>
-
 - Follow the below manual and perform the experiment
     - Manual --> [Click Here](./simulation/coavlNew.pdf)
 
