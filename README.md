@@ -1,11 +1,9 @@
 ## Introduction
 
-
-
 <b>Discipline | <b>Computer Science & Engineering
 :--|:--|
 <b> Lab | <b> Computer Organisation & Architecture
-<b> Experiment|     <b> Combinational Multipliers
+<b> Experiment|     <b> Associative Cache Design
 
 ### About the Experiment 
 
