@@ -1,0 +1,51 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Search concept in associative memory is",
+      "answers": {
+        "a": "Binary search",
+        "b": "Parallel search",
+        "c": "Selection search",
+        "d": "Sequential search"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Associative cache introduces more hardware cost",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the memory access time without cache is 150 ns and with cache is 30 ns, then what is the hit ratio?",
+      "answers": {
+        "a": "81%",
+        "b": "75%",
+        "c": "92%",
+        "d": "87%"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For a line length of 128 bytes, how many lines can a cache with size 32 KB hold?",
+      "answers": {
+        "a": "256",
+        "b": "512",
+        "c": "1024",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
